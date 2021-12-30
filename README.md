@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Software Product Engineering**
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **Redux and React Native**
 
 - 👯 I’m looking to collaborate on **Github**
 
