@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadhashivamp" alt="sadhashivamp" /></a> </p>
 
-- 🔭 I’m currently working on **Software Product Engineering**
+- 🔭 I’m currently working on **Software Engineer**
 
-- 🌱 I’m currently learning **Redux and React Native**
+- 🌱 I’m currently learning **Next.js, Vue.js and Backend Tech**
 
 - 👯 I’m looking to collaborate on **Github**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **Ramulu320p@gmail.com,Sadha0106@gmail.com**
+- 📫 How to reach me **ramulu320p@gmail.com,sadha0601.p@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
