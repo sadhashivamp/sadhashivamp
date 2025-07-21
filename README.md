@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadha Shivam Pendem</h1>
-<h3 align="center">Passionate frontend developer from India</h3>
+<h3 align="center">Passionate Fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadhashivamp&label=Profile%20views&color=0e75b6&style=flat" alt="sadhashivamp" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Software Engineer**
 
-- 🌱 I’m currently learning **Next.js, Vue.js and Backend Tech**
+- 🌱 I’m currently learning **Backend**
 
 - 👯 I’m looking to collaborate on **Github**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **ramulu320p@gmail.com,sadha0601.p@gmail.com**
+- 📫 How to reach me **pendem.shivam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
